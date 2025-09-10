@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrMenu.API", "QrMenu.API\QrMenu.API.csproj", "{5DBA5E84-0BA3-48AB-9BE2-C34A44A79867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrMenu.Domain", "QrMenu.Domain\QrMenu.Domain.csproj", "{7A04DD7A-06A1-4F4B-859B-7A198590C1BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrMenu.Application", "QrMenu.Application\QrMenu.Application.csproj", "{9DBF5414-DC42-4BCA-9B7D-7A18624C7535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrMenu.Infrastructure", "QrMenu.Infrastructure\QrMenu.Infrastructure.csproj", "{8800F0CC-D8EF-4CC8-9CFD-19B569A91EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DBA5E84-0BA3-48AB-9BE2-C34A44A79867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBA5E84-0BA3-48AB-9BE2-C34A44A79867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBA5E84-0BA3-48AB-9BE2-C34A44A79867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBA5E84-0BA3-48AB-9BE2-C34A44A79867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A04DD7A-06A1-4F4B-859B-7A198590C1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A04DD7A-06A1-4F4B-859B-7A198590C1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A04DD7A-06A1-4F4B-859B-7A198590C1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A04DD7A-06A1-4F4B-859B-7A198590C1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBF5414-DC42-4BCA-9B7D-7A18624C7535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBF5414-DC42-4BCA-9B7D-7A18624C7535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBF5414-DC42-4BCA-9B7D-7A18624C7535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBF5414-DC42-4BCA-9B7D-7A18624C7535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8800F0CC-D8EF-4CC8-9CFD-19B569A91EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8800F0CC-D8EF-4CC8-9CFD-19B569A91EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8800F0CC-D8EF-4CC8-9CFD-19B569A91EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8800F0CC-D8EF-4CC8-9CFD-19B569A91EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B25471FE-5050-4A60-A7D8-8045B4FA96BF}
+	EndGlobalSection
+EndGlobal
